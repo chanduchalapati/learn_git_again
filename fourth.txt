@@ -2,4 +2,3 @@ you
 me
 cat /home/chandu
 git status
-git branch
