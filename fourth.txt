@@ -1,4 +1,4 @@
 you
 me
 cat /home/chandu
-git status
+git log
